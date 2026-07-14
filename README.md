@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/pet.png" width="256" />
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
   <h1>tomodachi 🐾</h1>
   <p>a terminal companion that judges your workflow</p>
 </div>
@@ -8,11 +8,15 @@
 
 ### what is this?
 
+<img src="assets/pet.png" align="left" width="256" hspace="20" />
+
 tomodachi is a desktop pet that lives on your screen and reacts to your terminal commands. it hooks directly into your shell (zsh, powershell, or cmd) and pays attention to what you're doing.
 
 run `cargo build` and it passes? tomodachi gets happy.
 run a command that typos and exits with code 127? tomodachi gets anxious.
 push code? tomodachi gets smug. 
+
+<br clear="left"/>
 
 it's basically a tamagotchi but for your terminal.
 
