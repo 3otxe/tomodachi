@@ -1,0 +1,14 @@
+[package]
+name = "tomodachi-installer"
+version.workspace = true
+edition.workspace = true
+
+[[bin]]
+name = "tomodachi-installer"
+path = "src/main.rs"
+# Hide the console window on Windows
+windows-subsystem = "windows"
+
+[dependencies]
+eframe = "0.27"
+anyhow = "1"
