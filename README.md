@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
+  <img src="assets/pet.png" width="256" />
   <h1>tomodachi 🐾</h1>
   <p>a terminal companion that judges your workflow</p>
 </div>
