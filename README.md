@@ -29,10 +29,8 @@ it's basically a tamagotchi but for your terminal.
 
 ### how to use
 
-**releases**
 the easiest way is to just grab `tomodachi-setup.exe` from the releases page and run it. it'll install everything for you and register it as an app by 3otxe. it just runs as a background daemon in your system tray and hooks into your terminal invisibly.
 
-**manual build**
 if you wanna build it yourself for some reason:
 ```powershell
 git clone https://github.com/3otxe/tomodachi.git
